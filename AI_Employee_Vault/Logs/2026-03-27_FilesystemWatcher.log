@@ -1,0 +1,72 @@
+2026-03-27 00:02:59,267 - FilesystemWatcher - INFO - Drop folder: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox
+2026-03-27 00:02:59,268 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-27 00:02:59,268 - FilesystemWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-27 00:02:59,268 - FilesystemWatcher - INFO - Check interval: 2s
+2026-03-27 00:02:59,279 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:02:59,283 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000259_test_document.txt
+2026-03-27 00:02:59,284 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000259_test_document.md
+2026-03-27 00:03:01,294 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:03:01,300 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000301_20260327_000259_test_document.txt
+2026-03-27 00:03:01,305 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000301_20260327_000259_test_document.md
+2026-03-27 00:03:03,315 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:03:03,319 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000303_20260327_000301_20260327_000259_test_document.txt
+2026-03-27 00:03:03,323 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000303_20260327_000301_20260327_000259_test_document.md
+2026-03-27 00:03:05,330 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:03:05,333 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.txt
+2026-03-27 00:03:05,336 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.md
+2026-03-27 00:03:07,341 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:03:07,343 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000307_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.txt
+2026-03-27 00:03:07,345 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000307_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.md
+2026-03-27 00:03:09,350 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:03:09,354 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000309_20260327_000307_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.txt
+2026-03-27 00:03:09,356 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000309_20260327_000307_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.md
+2026-03-27 00:03:11,362 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:03:11,365 - FilesystemWatcher - INFO - Copied file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_000311_20260327_000309_20260327_000307_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test_document.txt
+2026-03-27 00:03:11,368 - FilesystemWatcher - INFO - Created action file: FILE_20260327_000311_20260327_000309_20260327_000307_20260327_000305_20260327_000303_20260327_000301_20260327_000259_test.md
+2026-03-27 00:05:45,419 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-27 00:05:45,420 - FilesystemWatcher - INFO - Drop folder: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Drop
+2026-03-27 00:25:59,062 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-27 00:25:59,062 - FilesystemWatcher - INFO - Drop folder: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Drop
+2026-03-27 00:25:59,063 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-27 00:25:59,063 - FilesystemWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-27 00:25:59,063 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-27 00:49:27,070 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-27 00:49:27,072 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-27 00:51:48,755 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-27 00:52:41,136 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-27 00:53:12,330 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-27 00:53:12,331 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-27 00:53:12,331 - FilesystemWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-27 00:53:12,332 - FilesystemWatcher - INFO - Check interval: 2s
+2026-03-27 00:53:12,333 - FilesystemWatcher - INFO - Found 2 new item(s)
+2026-03-27 00:53:12,333 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\new_test.txt
+2026-03-27 00:53:12,334 - FilesystemWatcher - INFO - Created action file: FILE_20260327_005312_new_test.md
+2026-03-27 00:53:12,335 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\test.txt
+2026-03-27 00:53:12,338 - FilesystemWatcher - INFO - Created action file: FILE_20260327_005312_test.md
+2026-03-27 16:51:41,432 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-27 16:51:41,436 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-27 16:53:40,586 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-27 16:53:40,588 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-27 16:53:40,589 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-27 16:53:40,590 - FilesystemWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-27 16:53:40,591 - FilesystemWatcher - INFO - Check interval: 2s
+2026-03-27 16:53:40,625 - FilesystemWatcher - INFO - Found 4 new item(s)
+2026-03-27 16:53:40,630 - FilesystemWatcher - INFO - Moved file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_165340_step4_test.txt
+2026-03-27 16:53:40,633 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165340_step4_test.md
+2026-03-27 16:53:40,637 - FilesystemWatcher - INFO - Moved file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_165340_workflow_test.txt
+2026-03-27 16:53:40,640 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165340_workflow_test.md
+2026-03-27 16:53:40,640 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\new_test.txt
+2026-03-27 16:53:40,642 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165340_new_test.md
+2026-03-27 16:53:40,643 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\test.txt
+2026-03-27 16:53:40,645 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165340_test.md
+2026-03-27 16:53:42,652 - FilesystemWatcher - INFO - Found 2 new item(s)
+2026-03-27 16:53:42,654 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_165340_step4_test.txt
+2026-03-27 16:53:42,658 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165342_20260327_165340_step4_test.md
+2026-03-27 16:53:42,660 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_165340_workflow_test.txt
+2026-03-27 16:53:42,665 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165342_20260327_165340_workflow_test.md
+2026-03-27 16:53:44,676 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 16:53:44,681 - FilesystemWatcher - INFO - Moved file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_165344_final_test.txt
+2026-03-27 16:53:44,687 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165344_final_test.md
+2026-03-27 16:53:46,699 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-27 16:53:46,701 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260327_165344_final_test.txt
+2026-03-27 16:53:46,705 - FilesystemWatcher - INFO - Created action file: FILE_20260327_165346_20260327_165344_final_test.md

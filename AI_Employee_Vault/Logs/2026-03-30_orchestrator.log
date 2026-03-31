@@ -1,0 +1,123 @@
+2026-03-30 10:19:54,618 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 10:19:54,620 - Orchestrator - INFO - Silver Tier features enabled: Plan generation, HITL workflow
+2026-03-30 10:19:54,621 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 10:19:54,624 - Orchestrator - INFO - Found 10 pending item(s)
+2026-03-30 10:19:54,645 - Orchestrator - INFO - Analyzed FILE_20260327_005312_new_test.md: moderate, 4 steps
+2026-03-30 10:19:54,647 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_005312_new_test.md
+2026-03-30 10:19:54,651 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_005312_new_test.md
+2026-03-30 10:19:54,652 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_005312_new_test.md
+2026-03-30 10:19:54,671 - Orchestrator - INFO - Analyzed FILE_20260327_005312_test.md: moderate, 4 steps
+2026-03-30 10:19:54,674 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_005312_test.md
+2026-03-30 10:19:54,676 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_005312_test.md
+2026-03-30 10:19:54,676 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_005312_test.md
+2026-03-30 10:19:54,694 - Orchestrator - INFO - Analyzed FILE_20260327_165340_new_test.md: moderate, 4 steps
+2026-03-30 10:19:54,695 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165340_new_test.md
+2026-03-30 10:19:54,697 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165340_new_test.md
+2026-03-30 10:19:54,697 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165340_new_test.md
+2026-03-30 10:19:54,708 - Orchestrator - INFO - Analyzed FILE_20260327_165340_step4_test.md: moderate, 4 steps
+2026-03-30 10:19:54,710 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165340_step4_test.md
+2026-03-30 10:19:54,711 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165340_step4_test.md
+2026-03-30 10:19:54,712 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165340_step4_test.md
+2026-03-30 10:19:54,723 - Orchestrator - INFO - Analyzed FILE_20260327_165340_test.md: moderate, 4 steps
+2026-03-30 10:19:54,724 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165340_test.md
+2026-03-30 10:19:54,726 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165340_test.md
+2026-03-30 10:19:54,726 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165340_test.md
+2026-03-30 10:19:54,739 - Orchestrator - INFO - Analyzed FILE_20260327_165340_workflow_test.md: moderate, 4 steps
+2026-03-30 10:19:54,741 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165340_workflow_test.md
+2026-03-30 10:19:54,742 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165340_workflow_test.md
+2026-03-30 10:19:54,743 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165340_workflow_test.md
+2026-03-30 10:19:54,757 - Orchestrator - INFO - Analyzed FILE_20260327_165342_20260327_165340_step4_test.md: moderate, 4 steps
+2026-03-30 10:19:54,758 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165342_20260327_165340_step4_test.md
+2026-03-30 10:19:54,760 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165342_20260327_165340_step4_test.md
+2026-03-30 10:19:54,761 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165342_20260327_165340_step4_test.md
+2026-03-30 10:19:54,773 - Orchestrator - INFO - Analyzed FILE_20260327_165342_20260327_165340_workflow_test.md: moderate, 4 steps
+2026-03-30 10:19:54,775 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165342_20260327_165340_workflow_test.md
+2026-03-30 10:19:54,776 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165342_20260327_165340_workflow_test.md
+2026-03-30 10:19:54,777 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165342_20260327_165340_workflow_test.md
+2026-03-30 10:19:54,790 - Orchestrator - INFO - Analyzed FILE_20260327_165344_final_test.md: moderate, 4 steps
+2026-03-30 10:19:54,793 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165344_final_test.md
+2026-03-30 10:19:54,796 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165344_final_test.md
+2026-03-30 10:19:54,797 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165344_final_test.md
+2026-03-30 10:19:54,811 - Orchestrator - INFO - Analyzed FILE_20260327_165346_20260327_165344_final_test.md: moderate, 4 steps
+2026-03-30 10:19:54,813 - Orchestrator - INFO - Created plan: PLAN_20260330_101954_FILE_20260327_165346_20260327_165344_final_test.md
+2026-03-30 10:19:54,815 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_101954_FILE_20260327_165346_20260327_165344_final_test.md
+2026-03-30 10:19:54,815 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_101954_FILE_20260327_165346_20260327_165344_final_test.md
+2026-03-30 10:19:54,815 - Orchestrator - INFO - Prepared 10 action file(s) for AI processing
+2026-03-30 10:19:54,817 - Orchestrator - INFO - Created processing instructions: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\_AI_PROCESSING_INSTRUCTIONS.md
+2026-03-30 10:19:54,818 - Orchestrator - INFO - Files ready for AI processing. AI will handle the rest.
+2026-03-30 10:19:54,836 - Orchestrator - INFO - Dashboard updated
+2026-03-30 10:19:54,837 - Orchestrator - INFO - Cycle complete. Prepared 10 items for AI processing.
+2026-03-30 11:28:03,289 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\scripts\..\AI_Employee_Vault
+2026-03-30 11:28:03,299 - Orchestrator - INFO - Silver Tier features enabled: Plan generation, HITL workflow
+2026-03-30 11:28:03,300 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 11:28:03,321 - Orchestrator - INFO - Dashboard updated
+2026-03-30 11:28:03,322 - Orchestrator - INFO - Cycle complete. Prepared 0 items for AI processing.
+2026-03-30 11:28:35,398 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\scripts\..\AI_Employee_Vault
+2026-03-30 11:28:35,399 - Orchestrator - INFO - Silver Tier features enabled: Plan generation, HITL workflow
+2026-03-30 11:28:35,400 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 11:28:35,403 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-30 11:28:35,421 - Orchestrator - INFO - Analyzed FILE_20260330_112800_email_setup.md: moderate, 4 steps
+2026-03-30 11:28:35,424 - Orchestrator - INFO - Created plan: PLAN_20260330_112835_FILE_20260330_112800_email_setup.md
+2026-03-30 11:28:35,426 - Orchestrator - INFO - Moved plan to Pending_Approval for processing: PLAN_20260330_112835_FILE_20260330_112800_email_setup.md
+2026-03-30 11:28:35,427 - Orchestrator - INFO - Created plan/approval: PLAN_20260330_112835_FILE_20260330_112800_email_setup.md
+2026-03-30 11:28:35,428 - Orchestrator - INFO - Prepared 1 action file(s) for AI processing
+2026-03-30 11:28:35,430 - Orchestrator - INFO - Created processing instructions: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\scripts\..\AI_Employee_Vault\_AI_PROCESSING_INSTRUCTIONS.md
+2026-03-30 11:28:35,430 - Orchestrator - INFO - Files ready for AI processing. AI will handle the rest.
+2026-03-30 11:28:35,449 - Orchestrator - INFO - Dashboard updated
+2026-03-30 11:28:35,451 - Orchestrator - INFO - Cycle complete. Prepared 1 items for AI processing.
+2026-03-30 11:47:58,324 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 11:47:58,325 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 11:47:58,361 - Orchestrator - INFO - Dashboard updated
+2026-03-30 11:47:58,362 - Orchestrator - INFO - Cycle complete
+2026-03-30 11:51:55,028 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 11:51:55,084 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 11:51:55,085 - Orchestrator - INFO - Found 2 item(s) in Needs_Action
+2026-03-30 11:51:55,087 - Orchestrator - INFO - Moved to Pending_Approval: FILE_20260330_115115_test_document.md
+2026-03-30 11:51:55,090 - Orchestrator - INFO - Moved to Pending_Approval: FILE_20260330_115117_20260330_115115_test_document.md
+2026-03-30 11:51:55,109 - Orchestrator - INFO - Dashboard updated
+2026-03-30 11:51:55,110 - Orchestrator - INFO - Cycle complete
+2026-03-30 11:52:42,774 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 11:52:42,775 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 11:52:42,776 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 11:52:42,778 - Orchestrator - INFO - Found 1 approved item(s) ready for processing
+2026-03-30 11:52:42,779 - Orchestrator - INFO - Prepared 1 action file(s) for AI processing
+2026-03-30 11:52:42,780 - Orchestrator - INFO - Created processing instructions: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\_AI_PROCESSING_INSTRUCTIONS.md
+2026-03-30 11:52:42,781 - Orchestrator - INFO - Approved files ready for AI processing
+2026-03-30 11:52:42,789 - Orchestrator - INFO - Dashboard updated
+2026-03-30 11:52:42,789 - Orchestrator - INFO - Cycle complete
+2026-03-30 14:22:55,102 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 14:22:55,104 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 14:22:55,105 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 14:22:55,132 - Orchestrator - INFO - Dashboard updated
+2026-03-30 14:22:55,133 - Orchestrator - INFO - Cycle complete
+2026-03-30 14:36:42,609 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 14:36:42,610 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 14:36:42,610 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 14:36:42,612 - Orchestrator - INFO - Found 1 item(s) in Needs_Action
+2026-03-30 14:36:42,615 - Orchestrator - INFO - Moved to Pending_Approval: FILE_20260330_144000_test_workflow_001.md
+2026-03-30 14:36:42,647 - Orchestrator - INFO - Dashboard updated
+2026-03-30 14:36:42,648 - Orchestrator - INFO - Cycle complete
+2026-03-30 14:37:17,940 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 14:37:17,941 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 14:37:17,942 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 14:37:17,950 - Orchestrator - INFO - Dashboard updated
+2026-03-30 14:37:17,951 - Orchestrator - INFO - Cycle complete
+2026-03-30 14:38:57,656 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 14:38:57,657 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 14:38:57,658 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 14:38:57,663 - Orchestrator - INFO - Dashboard updated
+2026-03-30 14:38:57,663 - Orchestrator - INFO - Cycle complete
+2026-03-30 14:39:35,371 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 14:39:35,372 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 14:39:35,373 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 14:39:35,375 - Orchestrator - INFO - Found 1 approved item(s) ready for processing
+2026-03-30 14:39:35,375 - Orchestrator - INFO - Prepared 1 action file(s) for AI processing
+2026-03-30 14:39:35,377 - Orchestrator - INFO - Created processing instructions: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\_AI_PROCESSING_INSTRUCTIONS.md
+2026-03-30 14:39:35,379 - Orchestrator - INFO - Approved files ready for AI processing
+2026-03-30 14:39:35,387 - Orchestrator - INFO - Dashboard updated
+2026-03-30 14:39:35,388 - Orchestrator - INFO - Cycle complete
+2026-03-30 14:39:55,011 - Orchestrator - INFO - Orchestrator initialized for vault: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 14:39:55,012 - Orchestrator - INFO - Workflow: Needs_Action -> Pending_Approval -> Approved -> Done
+2026-03-30 14:39:55,013 - Orchestrator - INFO - Starting processing cycle
+2026-03-30 14:39:55,017 - Orchestrator - INFO - Dashboard updated
+2026-03-30 14:39:55,018 - Orchestrator - INFO - Cycle complete

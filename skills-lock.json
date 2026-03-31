@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "browsing-with-playwright": {
+      "source": "bilalmk/todo_correct",
+      "sourceType": "github",
+      "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461"
+    },
+    "gmail-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-skill-gmail-watcher"
+    },
+    "whatsapp-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-skill-whatsapp-watcher"
+    },
+    "linkedin-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-skill-linkedin-watcher"
+    },
+    "linkedin-auto-post": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-skill-linkedin-auto-post"
+    },
+    "plan-generator": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-skill-plan-generator"
+    },
+    "vault-processor": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "local-skill-vault-processor"
+    }
+  }
+}

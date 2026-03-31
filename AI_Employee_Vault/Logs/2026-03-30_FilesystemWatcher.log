@@ -1,0 +1,28 @@
+2026-03-30 10:20:41,412 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 10:20:41,413 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 10:21:58,403 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 10:21:58,405 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 10:24:49,451 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 10:24:49,451 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 11:27:11,576 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 11:27:11,578 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\scripts\\..\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\scripts\\..\\AI_Employee_Vault\\Inbox']
+2026-03-30 11:51:15,822 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 11:51:15,824 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 11:51:15,825 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-30 11:51:15,825 - FilesystemWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 11:51:15,826 - FilesystemWatcher - INFO - Check interval: 2s
+2026-03-30 11:51:15,830 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-30 11:51:15,833 - FilesystemWatcher - INFO - Moved file to: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260330_115115_test_document.txt
+2026-03-30 11:51:15,835 - FilesystemWatcher - INFO - Created action file: FILE_20260330_115115_test_document.md
+2026-03-30 11:51:17,838 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-30 11:51:17,839 - FilesystemWatcher - INFO - File already in Inbox: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\Inbox\20260330_115115_test_document.txt
+2026-03-30 11:51:17,841 - FilesystemWatcher - INFO - Created action file: FILE_20260330_115117_20260330_115115_test_document.md
+2026-03-30 14:22:21,511 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 14:22:21,515 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 14:23:15,857 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 14:23:15,859 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 14:24:39,360 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 14:24:39,362 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 14:28:27,328 - FilesystemWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 14:28:27,330 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']
+2026-03-30 14:32:33,804 - FilesystemWatcher - INFO - Drop folders: ['C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Drop', 'C:\\Users\\adnanlaptop\\OneDrive\\Documents\\GitHub\\WK-Personal-AI-Employee\\AI_Employee_Vault\\Inbox']

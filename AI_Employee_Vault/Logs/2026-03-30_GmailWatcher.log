@@ -1,0 +1,116 @@
+2026-03-30 10:42:36,901 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 10:42:36,902 - GmailWatcher - INFO - Starting OAuth authorization flow...
+2026-03-30 10:42:36,903 - GmailWatcher - INFO - Opening browser for authorization...
+2026-03-30 10:42:37,160 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=868499932863-ak9vqnipouqgcvi56ecbqr3iro7u9j4a.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A59842%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=OqO6mz5J1FTwAluLdce3XWymeB8U4h&code_challenge=7vgU2kn7vDhEu2MGLvX9M2Rkc7p12FqpdfrXWRZzI_s&code_challenge_method=S256&access_type=offline
+2026-03-30 10:55:38,788 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 10:55:38,789 - GmailWatcher - INFO - Starting OAuth authorization flow...
+2026-03-30 10:55:38,789 - GmailWatcher - INFO - Opening browser for authorization...
+2026-03-30 10:55:38,976 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=868499932863-ak9vqnipouqgcvi56ecbqr3iro7u9j4a.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A55898%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=JNeaqBBvCdUd4SvXEvNjTqMuaQ4qOx&code_challenge=p5EPoL46rZZMRc0zkHFKes0BpucPO9E9IpmxJhcExJQ&code_challenge_method=S256&access_type=offline
+2026-03-30 10:56:01,392 - google_auth_oauthlib.flow - INFO - "GET /?state=JNeaqBBvCdUd4SvXEvNjTqMuaQ4qOx&iss=https://accounts.google.com&code=4/0Aci98E-vfGwr-9iQ_liaLO3ZLe-ytSvvveRJZvXn_04i6SbbtqV7X9rj-fNWcSUeS6qITA&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-03-30 10:56:01,394 - GmailWatcher - ERROR - Authentication failed: 'client_secret'
+2026-03-30 10:56:01,395 - GmailWatcher - ERROR - Please delete .gmail_token.json and try again
+2026-03-30 10:56:01,396 - GmailWatcher - INFO - Gmail Watcher initialized - Monitoring labels: ['UNREAD', 'IMPORTANT']
+2026-03-30 10:56:01,399 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-30 10:56:01,400 - GmailWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\scripts\..\AI_Employee_Vault
+2026-03-30 10:56:01,401 - GmailWatcher - INFO - Check interval: 120s
+2026-03-30 10:56:01,402 - GmailWatcher - WARNING - Gmail service not initialized
+2026-03-30 10:58:01,406 - GmailWatcher - WARNING - Gmail service not initialized
+2026-03-30 11:00:01,413 - GmailWatcher - WARNING - Gmail service not initialized
+2026-03-30 15:41:35,875 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 15:41:35,878 - GmailWatcher - INFO - Starting new OAuth flow
+2026-03-30 15:41:36,095 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=373553931978-glet1vokja1509nu3k5tl4g5dmrn2mh1.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify&state=h8muNvM808YC5o3HIQjlRNwhioUVV7&code_challenge=xdP1VYML8tK8sMDJY57dXMx3EfQDf7DZpuvwLgD0d1E&code_challenge_method=S256&access_type=offline
+2026-03-30 15:43:07,742 - google_auth_oauthlib.flow - INFO - "GET /?state=h8muNvM808YC5o3HIQjlRNwhioUVV7&iss=https://accounts.google.com&code=4/0Aci98E_qzo3rVVdgb1vqvKf7TEZDU3Eke6vBLl5xo0KVcjmWNEG75ss_TR7hyMkPLB-oPg&scope=https://www.googleapis.com/auth/gmail.readonly%20https://www.googleapis.com/auth/gmail.modify HTTP/1.1" 200 65
+2026-03-30 15:43:09,594 - GmailWatcher - INFO - Token saved to C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\.gmail_token.json
+2026-03-30 15:43:09,618 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-30 15:43:09,734 - GmailWatcher - INFO - Gmail API authentication successful
+2026-03-30 15:43:09,745 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 15:43:09,746 - GmailWatcher - INFO - Monitoring label: INBOX
+2026-03-30 15:43:09,748 - GmailWatcher - INFO - Unread only: True
+2026-03-30 15:46:24,542 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 15:46:24,574 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-30 15:46:24,582 - GmailWatcher - INFO - Gmail API authentication successful
+2026-03-30 15:46:24,584 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 15:46:24,585 - GmailWatcher - INFO - Monitoring label: INBOX
+2026-03-30 15:46:24,586 - GmailWatcher - INFO - Unread only: True
+2026-03-30 23:47:54,404 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 23:47:54,430 - GmailWatcher - INFO - Refreshing expired token
+2026-03-30 23:47:56,131 - GmailWatcher - INFO - Token saved to C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault\.gmail_token.json
+2026-03-30 23:47:56,153 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-30 23:47:56,266 - GmailWatcher - INFO - Gmail API authentication successful
+2026-03-30 23:47:56,268 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 23:47:56,268 - GmailWatcher - INFO - Monitoring label: INBOX
+2026-03-30 23:47:56,269 - GmailWatcher - INFO - Unread only: True
+2026-03-30 23:50:39,395 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 23:50:39,411 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-30 23:50:39,417 - GmailWatcher - INFO - Gmail API authentication successful
+2026-03-30 23:50:39,419 - GmailWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 23:50:39,420 - GmailWatcher - INFO - Monitoring label: INBOX
+2026-03-30 23:50:39,420 - GmailWatcher - INFO - Unread only: True
+2026-03-30 23:50:39,422 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-30 23:50:39,423 - GmailWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 23:50:39,424 - GmailWatcher - INFO - Check interval: 30s
+2026-03-30 23:50:45,513 - GmailWatcher - INFO - Found 10 new email(s)
+2026-03-30 23:50:45,515 - GmailWatcher - INFO - Found 10 new item(s)
+2026-03-30 23:50:45,530 - GmailWatcher - INFO - Created action file for email: Security alert for autopile905@gmail.com
+2026-03-30 23:50:45,532 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_no-reply_Security alert for autopile905@gmail.com.md
+2026-03-30 23:50:45,541 - GmailWatcher - INFO - Created action file for email: Someone added you as their recovery email
+2026-03-30 23:50:45,542 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_no-reply_Someone added you as their recovery email.md
+2026-03-30 23:50:45,549 - GmailWatcher - INFO - Created action file for email: Test -AI Employee
+2026-03-30 23:50:45,551 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_1bugatti.0018_Test -AI Employee.md
+2026-03-30 23:50:45,558 - GmailWatcher - INFO - Created action file for email: Connect with Learners Like You (Discord Community)
+2026-03-30 23:50:45,561 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_hello_Connect with Learners Like You (Discord Community).md
+2026-03-30 23:50:45,568 - GmailWatcher - INFO - Created action file for email: Discover What YouLearn Can Do
+2026-03-30 23:50:45,569 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_hello_Discover What YouLearn Can Do.md
+2026-03-30 23:50:45,578 - GmailWatcher - INFO - Created action file for email: Security alert
+2026-03-30 23:50:45,579 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_no-reply_Security alert.md
+2026-03-30 23:50:45,586 - GmailWatcher - INFO - Created action file for email: Welcome to YouLearn – An AI Tutor Made For You
+2026-03-30 23:50:45,588 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_hello_Welcome to YouLearn – An AI Tutor Made For You.md
+2026-03-30 23:50:45,598 - GmailWatcher - INFO - Created action file for email: Security alert
+2026-03-30 23:50:45,599 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_no-reply_Security alert.md
+2026-03-30 23:50:45,606 - GmailWatcher - INFO - Created action file for email: Confirm your subscription
+2026-03-30 23:50:45,608 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_donotreply_Confirm your subscription.md
+2026-03-30 23:50:45,615 - GmailWatcher - INFO - Created action file for email: Email changed on Instagram
+2026-03-30 23:50:45,615 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235045_security_Email changed on Instagram.md
+2026-03-30 23:51:15,959 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:51:46,430 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:52:16,774 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:52:47,111 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:53:17,448 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:53:47,804 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:54:18,498 - GmailWatcher - INFO - Found 1 new email(s)
+2026-03-30 23:54:18,499 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-30 23:54:18,507 - GmailWatcher - INFO - Created action file for email: Greetings
+2026-03-30 23:54:18,508 - GmailWatcher - INFO - Created action file: EMAIL_20260330_235418_autophile357_Greetings.md
+2026-03-30 23:54:48,898 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:55:19,238 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:55:49,576 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:56:20,054 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:56:50,394 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:57:20,729 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:57:51,186 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:58:21,535 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:58:51,867 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:59:22,265 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-30 23:59:52,607 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:00:22,951 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:00:53,301 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:01:23,663 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:01:54,041 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:02:24,412 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:02:54,765 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:03:25,174 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:03:55,571 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:04:25,913 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:04:56,313 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:05:26,658 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:05:57,080 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:06:27,422 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:14:24,367 - GmailWatcher - ERROR - Error checking Gmail: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-31 00:14:54,472 - GmailWatcher - ERROR - Error checking Gmail: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-31 00:15:25,166 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:15:55,519 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:16:26,543 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:16:57,246 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:17:27,652 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:17:58,043 - GmailWatcher - INFO - Found 0 new email(s)
+2026-03-31 00:18:28,480 - GmailWatcher - INFO - Found 0 new email(s)

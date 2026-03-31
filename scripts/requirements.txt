@@ -1,0 +1,21 @@
+# AI Employee Python Dependencies
+# ================================
+
+# Bronze Tier - Core
+# ------------------
+watchdog>=3.0.0
+
+# Silver Tier - Watchers & Automation
+# ------------------------------------
+playwright>=1.40.0
+
+# Gmail API (for Gmail Watcher)
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.0.0
+
+# Installation:
+# -------------
+# pip install -r requirements.txt
+# playwright install chromium

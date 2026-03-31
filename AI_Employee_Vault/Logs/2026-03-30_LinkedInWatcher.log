@@ -1,0 +1,282 @@
+2026-03-30 20:47:07,048 - LinkedInWatcher - INFO - Session path: C:\Users\adnanlaptop\.linkedin_session
+2026-03-30 20:47:07,049 - LinkedInWatcher - INFO - Headless mode: False
+2026-03-30 20:47:07,050 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 20:47:07,052 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-30 20:47:07,053 - LinkedInWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 20:47:07,054 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 20:48:08,030 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 20:51:10,788 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 20:51:10,790 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 20:51:10,791 - LinkedInWatcher - INFO - Session path: C:\Users\adnanlaptop\.linkedin_session
+2026-03-30 20:51:10,791 - LinkedInWatcher - INFO - Headless mode: False
+2026-03-30 20:51:10,792 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 20:51:10,795 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-30 20:51:10,795 - LinkedInWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 20:51:10,796 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 20:51:43,443 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 20:53:42,658 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 20:58:45,031 - LinkedInWatcher - ERROR - Error checking LinkedIn: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+<launched> pid=17952
+Call log:
+  - <launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+  - <launched> pid=17952
+  - [pid=17952] <gracefully close start>
+  - [pid=17952] <kill>
+  - [pid=17952] <will force kill>
+  - [pid=17952] taskkill stderr: ERROR: The process "17952" not found.
+  - [pid=17952] <process did exit: exitCode=21, signal=null>
+  - [pid=17952] starting temporary directories cleanup
+  - [pid=17952] finished temporary directories cleanup
+  - [pid=17952] <gracefully close end>
+
+2026-03-30 21:03:46,776 - LinkedInWatcher - ERROR - Error checking LinkedIn: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+<launched> pid=11548
+Call log:
+  - <launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+  - <launched> pid=11548
+  - [pid=11548] <gracefully close start>
+  - [pid=11548] <kill>
+  - [pid=11548] <will force kill>
+  - [pid=11548] taskkill stderr: ERROR: The process "11548" not found.
+  - [pid=11548] <process did exit: exitCode=21, signal=null>
+  - [pid=11548] starting temporary directories cleanup
+  - [pid=11548] finished temporary directories cleanup
+  - [pid=11548] <gracefully close end>
+
+2026-03-30 21:08:48,561 - LinkedInWatcher - ERROR - Error checking LinkedIn: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+<launched> pid=3196
+Call log:
+  - <launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+  - <launched> pid=3196
+  - [pid=3196] <gracefully close start>
+  - [pid=3196] <kill>
+  - [pid=3196] <will force kill>
+  - [pid=3196] taskkill stderr: ERROR: The process "3196" not found.
+  - [pid=3196] <process did exit: exitCode=21, signal=null>
+  - [pid=3196] starting temporary directories cleanup
+  - [pid=3196] finished temporary directories cleanup
+  - [pid=3196] <gracefully close end>
+
+2026-03-30 21:09:41,828 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 21:09:41,830 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 21:09:41,830 - LinkedInWatcher - INFO - Session path: C:\Users\adnanlaptop\.linkedin_session
+2026-03-30 21:09:41,831 - LinkedInWatcher - INFO - Headless mode: True
+2026-03-30 21:09:41,831 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 21:09:41,832 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-30 21:09:41,833 - LinkedInWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 21:09:41,834 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 21:11:54,732 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+    - waiting for" https://www.linkedin.com/uas/login-submit" navigation to finish...
+    - navigated to "https://www.linkedin.com/uas/login-submit"
+
+2026-03-30 21:14:26,796 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+    - waiting for" https://www.linkedin.com/uas/login-submit" navigation to finish...
+    - navigated to "https://www.linkedin.com/uas/login-submit"
+    - waiting for" https://www.linkedin.com/checkpoint/lg/login-submit" navigation to finish...
+    - navigated to "https://www.linkedin.com/checkpoint/lg/login-submit"
+
+2026-03-30 21:19:30,090 - LinkedInWatcher - ERROR - Error checking LinkedIn: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+<launched> pid=21296
+Call log:
+  - <launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+  - <launched> pid=21296
+  - [pid=21296] <gracefully close start>
+  - [pid=21296] <kill>
+  - [pid=21296] <will force kill>
+  - [pid=21296] taskkill stderr: ERROR: The process "21296" not found.
+  - [pid=21296] <process did exit: exitCode=21, signal=null>
+  - [pid=21296] starting temporary directories cleanup
+  - [pid=21296] finished temporary directories cleanup
+  - [pid=21296] <gracefully close end>
+
+2026-03-30 21:20:36,127 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 21:24:35,168 - LinkedInWatcher - ERROR - Error checking LinkedIn: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+<launched> pid=19956
+Call log:
+  - <launching> C:\Users\adnanlaptop\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\adnanlaptop\.linkedin_session --remote-debugging-pipe about:blank
+  - <launched> pid=19956
+  - [pid=19956] <gracefully close start>
+  - [pid=19956] <kill>
+  - [pid=19956] <will force kill>
+  - [pid=19956] taskkill stderr: ERROR: The process "19956" not found.
+  - [pid=19956] <process did exit: exitCode=21, signal=null>
+  - [pid=19956] starting temporary directories cleanup
+  - [pid=19956] finished temporary directories cleanup
+  - [pid=19956] <gracefully close end>
+
+2026-03-30 21:28:41,645 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 21:30:08,475 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 21:32:02,031 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 21:32:02,034 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 21:32:02,035 - LinkedInWatcher - INFO - Session path: C:\Users\adnanlaptop\.linkedin_session
+2026-03-30 21:32:02,035 - LinkedInWatcher - INFO - Headless mode: True
+2026-03-30 21:32:02,036 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 21:32:02,038 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-30 21:32:02,039 - LinkedInWatcher - INFO - Vault path: C:\Users\adnanlaptop\OneDrive\Documents\GitHub\WK-Personal-AI-Employee\AI_Employee_Vault
+2026-03-30 21:32:02,040 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 21:33:50,568 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 21:33:50,570 - LinkedInWatcher - INFO - Loaded 0 processed IDs from state
+2026-03-30 21:33:50,570 - LinkedInWatcher - INFO - Session path: C:\Users\adnanlaptop\.linkedin_session
+2026-03-30 21:33:50,571 - LinkedInWatcher - INFO - Headless mode: True
+2026-03-30 21:33:50,571 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-30 21:34:03,861 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 21:41:15,259 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 21:49:18,245 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 21:56:20,464 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 22:03:54,606 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 22:11:56,741 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 22:19:09,121 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 22:31:31,846 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 22:39:34,846 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 22:46:44,012 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 22:54:47,481 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 23:01:56,108 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 23:09:58,721 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 23:17:00,602 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 23:24:03,046 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 23:31:04,910 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-30 23:38:15,176 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 23:46:25,131 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-30 23:54:27,149 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:01:29,178 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:16:24,372 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-31 00:24:27,200 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:31:29,121 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:38:31,078 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:45:34,155 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:52:36,292 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 00:59:38,137 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 01:06:40,138 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-31 01:13:49,615 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-31 01:22:00,179 - LinkedInWatcher - WARNING - Navigation may have failed: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".global-nav") to be visible
+
+2026-03-31 01:30:02,658 - LinkedInWatcher - ERROR - Error checking LinkedIn: Page.goto: Timeout 120000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": [
+        "C:/Users/adnanlaptop/OneDrive/Documents/GitHub/WK-Personal-AI-Employee/mcp-servers/email-mcp/server.py"
+      ],
+      "env": {
+        "VAULT_PATH": "C:/Users/adnanlaptop/OneDrive/Documents/GitHub/WK-Personal-AI-Employee/AI_Employee_Vault",
+        "GMAIL_TOKEN_PATH": "C:/Users/adnanlaptop/OneDrive/Documents/GitHub/WK-Personal-AI-Employee/AI_Employee_Vault/.gmail_token.json"
+      }
+    }
+  }
+}
